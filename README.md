@@ -75,10 +75,10 @@ To install the package on your system, run
 go get github.com/jung-kurt/gofpdf
 ```
 
-Later, to receive updates, run
+To test the installation, run
 
 ``` shell
-go get -u -v github.com/jung-kurt/gofpdf/...
+go test ./...
 ```
 
 ## Quick Start

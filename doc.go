@@ -76,14 +76,24 @@ appreciated. Best wishes to all of you.
 
 Installation
 
-To install the package on your system, run
+If you currently use the $GOPATH scheme, install the package with the
+following command.
 
+    go get github.com/jung-kurt/gofpdf/...
+
+<<<<<<< HEAD
+To test the installation, run
+=======
     go get github.com/jung-kurt/gofpdf
+>>>>>>> master
 
-Later, to receive updates, run
+    go test ./...
 
+<<<<<<< HEAD
+=======
     go get -u -v github.com/jung-kurt/gofpdf/...
 
+>>>>>>> master
 
 Quick Start
 
