@@ -81,10 +81,19 @@ following command.
 
     go get github.com/jung-kurt/gofpdf/...
 
+<<<<<<< HEAD
 To test the installation, run
+=======
+    go get github.com/jung-kurt/gofpdf
+>>>>>>> master
 
     go test ./...
 
+<<<<<<< HEAD
+=======
+    go get -u -v github.com/jung-kurt/gofpdf/...
+
+>>>>>>> master
 
 Quick Start
 

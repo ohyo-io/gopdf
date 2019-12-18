@@ -69,11 +69,10 @@ appreciated. Best wishes to all of you.
 
 ## Installation
 
-If you currently use the $GOPATH scheme, install the package with the
-following command.
+To install the package on your system, run
 
 ``` shell
-go get github.com/jung-kurt/gofpdf/...
+go get github.com/jung-kurt/gofpdf
 ```
 
 To test the installation, run
